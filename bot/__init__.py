@@ -64,12 +64,12 @@ DEFAULT_START_TEXT = (
     "Thank you for using me 😬\n\n"
     "This is an Open Source Project available on "
     "https://github.com/kidiloskahyper45\n\n\n"
-    "If you are the owner of this bot, "
-    "and are seeing this message 🤦‍♂️, "
-    "means that you have not set up "
-    "the ENVironment variables properly "
-    "for the bot to function.\n\n\n"
-    "ℹ️ Subscribe @rosebakthan if you 😍 using this bot❗️❣️"
+    "This is an advanced Reporting Bot, "
+    "You can report your pm issues here 🤦‍♂️, "
+    "& If you have any abusive problem in our group give us screenshot  "
+    " Thanku for using me "
+    "🚨.\n\n\n"
+    "ℹ️ Subscribe me @rosebakthan "
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
@@ -83,7 +83,7 @@ ONLINE_CHECK_START_TEXT = get_config(
         "i am online <b>master</b>\n\n"
         "This is an Open Source Project available on "
         "https://github.com/kidiloskahyper45\n\n\n"
-        "ℹ️ Subscribe @rosebakthan if you 😍 using this bot❗️❣️"
+        "ℹ️ Subscribe me @rosebakthan❣️"
     )
 )
 # message to indicate,
@@ -95,7 +95,7 @@ DELETED_MESSAGES_NOTIFICATION_TEXT = get_config(
         "this message was deleted\n\n"
         "This is an Open Source Project available on "
         "https://github.com/kidiloskahyper45\n\n\n"
-        "ℹ️ Subscribe @rosebakthan if you 😍 using this bot❗️❣️"
+        "ℹ️ Subscribe me @rosebakthan ❣️"
     )
 )
 # IDEKWBYRW
