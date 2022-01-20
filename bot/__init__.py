@@ -62,8 +62,8 @@ START_COMMAND = get_config("START_COMMAND", "start")
 DEFAULT_START_TEXT = (
     "Hi. ☺️\n"
     "Thank you for using me 😬\n\n"
-    "This is an Open Source Project available on "
-    "https://github.com/kidiloskahyper45\n\n\n"
+    "This is an Open Source Project based on MALAYALAM CHATTING GROUP "
+    "Our other groups @Malayalam_Chatting_Links\n\n\n"
     "This is an advanced Reporting Bot, "
     "You can report your pm issues here 🤦‍♂️, "
     "& If you have any abusive problem in our group give us screenshot  "
